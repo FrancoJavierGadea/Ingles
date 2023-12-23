@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T01:45:32.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="cEXRYoYTVpspcD-F23DF" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T01:50:39.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="MFihDXj-tViBI6kAtRSc" version="22.1.11" type="github">
   <diagram name="Página-1" id="DoMTYIOWFA96HwlCENNE">
-    <mxGraphModel dx="2642" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2319" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,23 +43,8 @@
         <mxCell id="dCN5y319V1dZhfIS2Bhl-13" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I wo&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; be&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You wo&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; be&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;He/She/It wo&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; be&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;We wo&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; be&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You wo&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; be&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;They wo&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; be&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;overflow=hidden;spacingTop=0;whiteSpace=wrap;horizontal=1;spacing=0;fontSize=16;fontFamily=Comic Sans MS;spacingLeft=20;fontColor=#66B2FF;" parent="wq_cmzW5N2Y1-mYz72yh-9" vertex="1">
           <mxGeometry x="210" y="150" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="wq_cmzW5N2Y1-mYz72yh-26" value="" style="group;fontFamily=Comic Sans MS;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="480" y="1040" width="230" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="wq_cmzW5N2Y1-mYz72yh-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;arcSize=5;fontFamily=Comic Sans MS;" parent="wq_cmzW5N2Y1-mYz72yh-26" vertex="1">
-          <mxGeometry y="60" width="230" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="wq_cmzW5N2Y1-mYz72yh-28" value="Presente perfecto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" parent="wq_cmzW5N2Y1-mYz72yh-26" vertex="1">
-          <mxGeometry width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wq_cmzW5N2Y1-mYz72yh-29" value="&lt;span style=&quot;background-color: initial;&quot;&gt;I have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;He/She/It has been&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;We have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;They have been&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;overflow=hidden;spacingTop=0;whiteSpace=wrap;horizontal=1;spacing=0;fontSize=16;fontFamily=Comic Sans MS;spacingLeft=20;fontColor=#66B2FF;" parent="wq_cmzW5N2Y1-mYz72yh-26" vertex="1">
-          <mxGeometry y="150" width="230" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="wq_cmzW5N2Y1-mYz72yh-30" value="Yo he sido, Tu has sido, Ella ha sido&lt;br&gt;&lt;br&gt;Yo he estado, Tu has estado,&lt;br&gt;Ella ha estado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;spacingTop=0;" parent="wq_cmzW5N2Y1-mYz72yh-26" vertex="1">
-          <mxGeometry y="60" width="230" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="wq_cmzW5N2Y1-mYz72yh-31" value="Algo que ocurrio en el pasado, continua en el presente, y seguira en el futuro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1450" width="230" height="30" as="geometry" />
+          <mxGeometry x="720" y="1060" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq_cmzW5N2Y1-mYz72yh-32" value="" style="group;fontFamily=Comic Sans MS;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="80" y="1040" width="230" height="390" as="geometry" />
@@ -201,6 +186,21 @@
         </mxCell>
         <mxCell id="dCN5y319V1dZhfIS2Bhl-14" value="&lt;span style=&quot;background-color: initial;&quot;&gt;I was&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You were&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;He/She/It was&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;We were&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You were&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;They were&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;overflow=hidden;spacingTop=0;whiteSpace=wrap;horizontal=1;spacing=0;fontSize=16;fontFamily=Comic Sans MS;spacingLeft=20;fontColor=#66B2FF;" parent="dCN5y319V1dZhfIS2Bhl-15" vertex="1">
           <mxGeometry x="190" y="150" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wq_cmzW5N2Y1-mYz72yh-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;arcSize=5;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1100" width="560" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="wq_cmzW5N2Y1-mYz72yh-28" value="Presente perfecto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1040" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wq_cmzW5N2Y1-mYz72yh-29" value="&lt;span style=&quot;background-color: initial;&quot;&gt;I do &lt;font color=&quot;#ff0000&quot;&gt;not&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You do &lt;font color=&quot;#ff0000&quot;&gt;not&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;He/She/It does &lt;font color=&quot;#ff0000&quot;&gt;dot&lt;/font&gt; have been&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;We do &lt;font color=&quot;#ff0000&quot;&gt;not&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You do &lt;font color=&quot;#ff0000&quot;&gt;not&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;They do &lt;font color=&quot;#ff0000&quot;&gt;not&lt;/font&gt; have been&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;overflow=hidden;spacingTop=0;whiteSpace=wrap;horizontal=1;spacing=0;fontSize=16;fontFamily=Comic Sans MS;spacingLeft=20;fontColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1190" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wq_cmzW5N2Y1-mYz72yh-30" value="Yo no he sido, Tu no has sido, Ella no ha sido&lt;br&gt;&lt;br&gt;Yo no he estado, Tu no has estado, Ella no ha estado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1100" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dH2ktReE65H0-K7HurxZ-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;I do&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You do&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;He/She/It does&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; have been&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;We do&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;You do&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; have been&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;They do&lt;font color=&quot;#ff0000&quot;&gt;n&#39;t&lt;/font&gt; have been&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;verticalAlign=middle;overflow=hidden;spacingTop=0;whiteSpace=wrap;horizontal=1;spacing=0;fontSize=16;fontFamily=Comic Sans MS;spacingLeft=20;fontColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1190" width="260" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
