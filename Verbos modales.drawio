@@ -1,92 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T05:10:34.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LL-OzSAkPw1JW9-6URS8" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T01:52:12.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="4Mnx5DAQL35nIeEFGmOR" version="22.1.11" type="github">
   <diagram name="Página-1" id="p1rP8z6Te9z8ik8RV3HG">
-    <mxGraphModel dx="1489" dy="2024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="63BqwB_4El213rW57xWJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="160" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="160" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="690" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="690" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="670" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-17" value="&lt;font color=&quot;#66b2ff&quot;&gt;We could steal time Just for one day&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;Podríamos robar el tiempo por solamente 1 dia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-17" value="&lt;font color=&quot;#66b2ff&quot;&gt;We could steal time Just for one day&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;Podríamos robar el tiempo por solamente 1 dia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="135" y="860" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-19" value="&lt;font color=&quot;#66b2ff&quot;&gt;We could be heroes, forever and ever&lt;/font&gt;&lt;br&gt;&lt;br&gt;Prodriamos ser heroes, por siempre y para siempre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-19" value="&lt;font color=&quot;#66b2ff&quot;&gt;We could be heroes, forever and ever&lt;/font&gt;&lt;br&gt;&lt;br&gt;Prodriamos ser heroes, por siempre y para siempre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="125" y="950" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-20" value="&lt;font color=&quot;#66b2ff&quot;&gt;We should be lovers&lt;/font&gt;&lt;br&gt;&lt;br&gt;Deberiamos ser amantes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-20" value="&lt;font color=&quot;#66b2ff&quot;&gt;We should be lovers&lt;/font&gt;&lt;br&gt;&lt;br&gt;Deberiamos ser amantes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="600" y="850" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="1290" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-23" value="&lt;font color=&quot;#66b2ff&quot;&gt;shall I open the door ?&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#000033&quot;&gt;Debo abrir la puerta ?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-23" value="&lt;font color=&quot;#66b2ff&quot;&gt;shall I open the door ?&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#000033&quot;&gt;Debo abrir la puerta ?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="640" y="1450" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-24" value="&lt;font color=&quot;#66b2ff&quot;&gt;shall I go now ?&lt;br&gt;&lt;/font&gt;&lt;br&gt;Debo irme ahora ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-24" value="&lt;font color=&quot;#66b2ff&quot;&gt;shall I go now ?&lt;br&gt;&lt;/font&gt;&lt;br&gt;Debo irme ahora ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="680" y="1540" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-26" value="&lt;font color=&quot;#66b2ff&quot;&gt;Show must go on&lt;/font&gt;&lt;br&gt;&lt;br&gt;El show debe continuar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-26" value="&lt;font color=&quot;#66b2ff&quot;&gt;Show must go on&lt;/font&gt;&lt;br&gt;&lt;br&gt;El show debe continuar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1120" y="805" width="170" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="-360" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-28" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;may&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Tal vez, quizas, Puede que&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-28" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;may&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Tal vez, quizas, Puede que&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1030" y="-500" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-29" value="&lt;font color=&quot;#66b2ff&quot;&gt;I may work tomorrow&lt;/font&gt;&lt;br&gt;&lt;br&gt;Puede que trabaje mañana" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="-150" width="240" height="50" as="geometry" />
+        <mxCell id="63BqwB_4El213rW57xWJ-29" value="&lt;font color=&quot;#66b2ff&quot;&gt;I may work tomorrow&lt;/font&gt;&lt;br&gt;&lt;br&gt;Puede que trabaje mañana" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="-280" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-30" value="&lt;font color=&quot;#009900&quot;&gt;maybe&lt;/font&gt; = &lt;font color=&quot;#009900&quot;&gt;perhaps&lt;/font&gt; = talvez" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-30" value="&lt;font color=&quot;#009900&quot;&gt;maybe&lt;/font&gt; = &lt;font color=&quot;#009900&quot;&gt;perhaps&lt;/font&gt; = talvez" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1090" y="-330" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-33" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;can&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Puedo, puedes, puede&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-33" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;can&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Puedo, puedes, puede&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1020" y="40" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-34" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;must&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Debo, debes, debe&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-34" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;must&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Debo, debes, debe&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1040" y="550" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-35" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;should&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Debería, deberías, deberían&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-35" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;should&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Debería, deberías, deberían&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="560" y="560" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-36" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;could (can + would)&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Podría, podrías, podrían&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-36" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;could (can + would)&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Podría, podrías, podrían&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="95" y="560" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-37" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;will&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Futuro: hare, comeré, volare, iré, danzare, correré&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-37" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;will&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Futuro: hare, comeré, volare, iré, danzare, correré&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="120" y="20" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-38" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;would&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Futuro: haría, comería, volaría, iría, danzaría, correría&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-38" value="&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#66b2ff&quot;&gt;would&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;Futuro: haría, comería, volaría, iría, danzaría, correría&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="550" y="20" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-39" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#66b2ff&quot;&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;shall&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;debería&amp;nbsp;? debo ?&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-39" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#66b2ff&quot;&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;shall&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;debería&amp;nbsp;? debo ?&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="600" y="1160" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1630" y="160" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-42" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#66b2ff&quot;&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;be able to&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Ser capaz de&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-42" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#66b2ff&quot;&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;be able to&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Ser capaz de&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1630" y="40" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1630" y="720" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="63BqwB_4El213rW57xWJ-44" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#66b2ff&quot;&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;have to&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Tengo que&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="63BqwB_4El213rW57xWJ-44" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#66b2ff&quot;&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;have to&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Tengo que&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1630" y="600" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wBrt5PKG67yiWrssDi03-1" value="&lt;font color=&quot;#009900&quot;&gt;Come what may&lt;/font&gt;&lt;br&gt;&lt;br&gt;Pase lo que pase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-60" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
